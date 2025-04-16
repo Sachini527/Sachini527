@@ -1,7 +1,18 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=130&width=110%&text=Sachini%20Peduruhewa&fontSize=36&fontAlignY=40&fontColor=ffffff&color=0:3a1c71,50:d76d77,100:ffaf7b)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&width=100%&section=header&text=Sachini+Peduruhewa&fontSize=32&fontAlignY=35&descAlignY=50&fontColor=ffffff&color=gradient:linear,0%3A1e3c72,35%3A3a7bd5,100%3A00d2ff&animation=fadeIn" alt="Header"/>
+</div>
 
-# Hi there, I'm Sachini Peduruhewa! 👋
-### 🌟 Computer Science Undergraduate | Full Stack Developer | Tech Enthusiast
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sachini+Peduruhewa!;" />
+</h1>
+
+<div align="center" style="margin: 20px 0">
+  <h3>
+    🌟 <strong>Computer Science Undergraduate</strong> | 
+    💻 <strong>Full Stack Developer</strong> | 
+    🚀 <strong>Tech Enthusiast</strong>
+  </h3>
+</div>
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -22,16 +33,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachini527&show_icons=true&theme=radical" alt="Sachini's GitHub stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachini527&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sachini527&theme=radical&hide_border=false" alt="GitHub Streak" />
+<br> <!-- Small space between rows -->
+
+<div align="center" style="display: flex; justify-content: space-between; width: 100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachini527&show_icons=true&theme=radical" alt="GitHub stats" style="width: 48%" />
+  <img src="https://streak-stats.demolab.com?user=Sachini527&theme=radical&hide_border=false" alt="GitHub Streak" style="width: 48%" />
 </div>
+
 
 ## 🔍 Contribution Summary (2025 so far)
 
@@ -72,4 +83,6 @@ An assistive technology solution designed to help visually impaired individuals 
 
 <br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&width=110%&section=footer&color=0:3a1c71,50:d76d77,100:ffaf7b)
+<div align="center" style="margin-top: 3rem">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=100%&section=footer&color=gradient:linear,0%3A00d2ff,35%3A3a7bd5,100%3A1e3c72&animation=fadeIn&rotate=180" alt="Footer"/>
+</div>
