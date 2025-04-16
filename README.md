@@ -43,20 +43,6 @@
   <img src="https://streak-stats.demolab.com?user=Sachini527&theme=radical&hide_border=false" alt="GitHub Streak" style="width: 48%" />
 </div>
 
-
-## 🔍 Contribution Summary (2025 so far)
-
-- **Total Contributions:** 114
-- **Activity Focus:**
-  - 99% Commits
-  - 1% Code Reviews
-  - 0% Pull Requests / Issues
-- **Active Months:** Jan–Mar
-- **Top Repos:**
-  - [BrailleMate](https://github.com/ThaminduMiuranda/BrailleMate-System)
-  - [Estate Agent App](https://github.com/Sachini527/Estate-Agent-Client-side-Web-Application)
-  - [Service Booking](https://github.com/Sachini527/Service-Booking-System)
-
 ## 🚀 Featured Projects
 
 ### 🏠 [Estate Agent Client-side Web Application](https://github.com/Sachini527/Estate-Agent-Client-side-Web-Application)
