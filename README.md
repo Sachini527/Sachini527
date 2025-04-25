@@ -38,9 +38,9 @@
 
 <br> <!-- Small space between rows -->
 
-<div align="center" style="display: flex; justify-content: space-between; width: 100%">
+<div align="center" style="display: flex; width: 100%">
   <img src="https://github-readme-stats.vercel.app/api?username=Sachini527&show_icons=true&theme=radical" alt="GitHub stats" style="width: 48%" />
-  <img src="https://streak-stats.demolab.com?user=Sachini527&theme=radical&hide_border=false" alt="GitHub Streak" style="width: 48%" />
+  
 </div>
 
 ## 🚀 Featured Projects
