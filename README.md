@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&width=100%&section=header&text=Sachini+Peduruhewa&fontSize=32&fontAlignY=35&descAlignY=50&fontColor=ffffff&color=gradient:linear,0%3A1e3c72,35%3A3a7bd5,100%3A00d2ff&animation=fadeIn" alt="Header"/>
-</div>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sachini+Peduruhewa!;" />
 </h1>
@@ -14,36 +10,30 @@
   </h3>
 </div>
 
-## 💻 Tech Stack
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sachini527&label=Profile%20views&color=0e75b6&style=flat" alt="sachini527" /> </p>
 
-## 📊 GitHub Stats
+## 📩 DM Me to Collaborate
+[![Download CV](https://img.shields.io/badge/Download_CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/drive/folders/1IHiUzSXBtz2nkxEhsDqve4ItIgAIk1CV) 
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-0077B5?style=for-the-badge&logo=internet-explorer&logoColor=white)](http://sachinipeduruhewa.me/)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachini527&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachini-peduruhewa-784633292/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Sachini527) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachinipeduruhewa@gmail.com)
 
-<br> <!-- Small space between rows -->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<div align="center" style="display: flex; width: 100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachini527&show_icons=true&theme=radical" alt="GitHub stats" style="width: 48%" />
-  
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sachini527&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sachini527&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachini527&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sachini527&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🚀 Featured Projects
+
+### 🔧 [Service Booking System](https://github.com/Sachini527/Service-Booking-System)
+Connects clients with service providers for posting, booking, and reviewing services.
 
 ### 🏠 [Estate Agent Client-side Web Application](https://github.com/Sachini527/Estate-Agent-Client-side-Web-Application)
 A comprehensive platform for real estate agents to manage property listings and client interactions.
@@ -51,25 +41,13 @@ A comprehensive platform for real estate agents to manage property listings and 
 ### 🌟 [Doc-Connect Healthcare Application](https://github.com/Sachini527/Doc-Connect-Healthcare-Application)
 A digital solution connecting patients with healthcare providers for streamlined appointment scheduling and care.
 
-### 🌱 [Ceylon Agricare](https://github.com/LinukaAr/iwb046-balletcoders)
-An agricultural management system designed to assist farmers with crop planning and resource optimization.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 📈 [BrailleMate](https://braillemate.live/)
-An assistive technology solution designed to help visually impaired individuals with digital communication.
+---
+[![](https://visitcount.itsvg.in/api?id=Sachini527&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ✉️ Connect with Me
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sachinipeduruhewa) 
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinipeduruhewa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachini-peduruhewa-784633292/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachini527)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=internet-explorer&logoColor=white)](http://sachinipeduruhewa.me/)
-
-</div>
-
-<br>
-
-<div align="center" style="margin-top: 3rem">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=100%&section=footer&color=gradient:linear,0%3A00d2ff,35%3A3a7bd5,100%3A1e3c72&animation=fadeIn&rotate=180" alt="Footer"/>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
